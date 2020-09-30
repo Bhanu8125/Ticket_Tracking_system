@@ -1,0 +1,8 @@
+frmLogin = 132, 82, 1144, 530, , 26, 26, 1038, 458, C
+MDIMain = 208, 208, 1220, 655, , 156, 156, 1168, 604, C
+Loginrepository = 52, 52, 1064, 484, 
+frmCreateTicket = 130, 130, 412, 577, Z, 182, 182, 1194, 630, C
+CreateTicketRepository = 182, 182, 464, 629, 
+frmCloseTicket = 104, 104, 1116, 552, , 52, 52, 1064, 500, C
+CloseTicketRepository = 78, 78, 1090, 526, 
+frmReport = 0, 0, 1024, 448, , 26, 26, 1038, 474, C
